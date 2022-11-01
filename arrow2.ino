@@ -58,4 +58,10 @@ digitalWrite(7,HIGH);
 
 Serial.println("------>");
 delay(200);
+ digitalWrite(2,LOW);
+digitalWrite(3,LOW);
+digitalWrite(4,LOW);
+digitalWrite(5,LOW);
+digitalWrite(6,LOW);
+digitalWrite(7,LOW);
 }
